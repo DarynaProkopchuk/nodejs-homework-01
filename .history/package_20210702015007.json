@@ -20,10 +20,5 @@
   "homepage": "https://github.com/DarynaProkopchuk/nodejs-homework-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.8"
-  },
-  "dependencies": {
-    "comander": "0.0.1-security",
-    "commander": "^8.0.0",
-    "shortid": "^2.2.16"
   }
 }
